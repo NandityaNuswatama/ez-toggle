@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ez-toggle</string>
+
+    <string name="toggle_wifi">Wi-Fi</string>
+    <string name="toggle_mobile_data">Mobile data</string>
+    <string name="toggle_location">Location</string>
+    <string name="toggle_airplane">Airplane mode</string>
+    <string name="toggle_dnd">Do Not Disturb</string>
+
+    <string name="toggle_state_on">On</string>
+    <string name="toggle_state_off">Off</string>
+    <string name="toggle_state_unknown">Unknown</string>
+    <string name="toggle_state_permission_required">Needs access</string>
+
+    <string name="opens_settings">Opens settings</string>
+    <string name="more_options">More options</string>
+    <string name="about">About</string>
+    <string name="about_body">Connectivity controls that only work after you unlock. No network access, nothing leaves the device.</string>
+    <string name="grant">Grant</string>
+    <string name="back">Back</string>
+    <string name="open_settings">Open settings</string>
+    <string name="banner_dnd">Grant Do Not Disturb access to toggle it from here.</string>
+    <string name="banner_phone">Grant phone access to show mobile data status. Toggling works without it.</string>
+    <string name="widget_description">Wi-Fi, mobile data, location, airplane mode and DND, usable only when unlocked.</string>
+
+    <string name="checklist_title">Setup checklist</string>
+    <string name="check_qs_title">Remove Quick Settings tiles</string>
+    <string name="check_qs_body">Pull down Quick Settings, tap the pencil, and drag Internet, Airplane mode, Location and Do Not Disturb out of the panel.</string>
+    <string name="check_widget_title">Add the home screen widget</string>
+    <string name="check_widget_body">Puts the five controls on your home screen, which is behind the lock.</string>
+    <string name="check_widget_action">Add widget</string>
+    <string name="check_dnd_title">Grant Do Not Disturb access</string>
+    <string name="check_dnd_body">Lets the DND button toggle directly instead of opening settings.</string>
+    <string name="check_theft_title">Turn on theft protection</string>
+    <string name="check_theft_body">Enable Theft Detection Lock and Offline Device Lock under Security, Theft protection.</string>
+    <string name="check_assistant_title">Lock down the assistant</string>
+    <string name="check_assistant_body">Make sure Gemini/Assistant cannot change these settings from the lock screen.</string>
+    <string name="check_update_title">Re-check after every OS update</string>
+    <string name="check_update_body">Updates can restore removed Quick Settings tiles. Check the tile layout again.</string>
+</resources>
